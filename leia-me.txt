@@ -1,0 +1,10 @@
+Como usar o programa:
+
+1. Coloque os arquivos XML na pasta "orcamentos".
+2. Execute "gerar_excel.exe".
+3. O sistema criará a planilha automaticamente na pasta "planilhas".
+
+Observações:
+- Deixe o arquivo "planilha_modelo.xlsx" na raiz da pasta.
+- Caso o antivírus bloqueie, clique em "Mais informações" > "Executar assim mesmo".
+
