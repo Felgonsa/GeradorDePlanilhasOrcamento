@@ -1,6 +1,6 @@
 # Sistema de Geração de Planilhas de Orçamentos Automotivos
 
-Este projeto automatiza a leitura de arquivos XML de orçamentos vindos do sistema de orçamentação Cilia e Porto/Azul seguros e gera planilhas Excel de controle financeiro
+Este projeto automatiza a leitura de arquivos XML de orçamentos vindos dos sistemas de orçamentação **Cilia** e **Porto/Azul Seguros**, gerando planilhas Excel de controle financeiro.
 
 ## Funcionalidades
 
@@ -8,6 +8,12 @@ Este projeto automatiza a leitura de arquivos XML de orçamentos vindos do siste
 - Geração de planilha com orçamentos consolidados.
 - Controle de serviços terceirizados de forma separada.
 - Atualização automática da planilha modelo com novos dados.
+
+Planilhas :
+
+![planilha1](./readme/planilha1.png)
+![planilha2](./readme/planilha2.png)
+![planilha3](./readme/planilha3.png)
 
 ## Como usar
 
@@ -24,9 +30,5 @@ Observações:
 - Deixe o arquivo "planilha_modelo.xlsx" na raiz da pasta.
 - Caso o antivírus bloqueie, clique em "Mais informações" > "Executar assim mesmo".
 
-Planilhas:
 
-![planilha1](./readme/planilha1.png)
-![planilha2](./readme/planilha2.png)
-![planilha3](./readme/planilha3.png)
 
